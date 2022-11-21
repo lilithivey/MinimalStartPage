@@ -1,4 +1,4 @@
-FROM caddy:2.6.20-alpine
+FROM caddy:2.6.2-alpine
 MAINTAINER LilithIvey <me@lilithivey.co>
 
 # Upgrade apk and install GIT
